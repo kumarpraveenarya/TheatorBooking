@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b3216e72_002D8221_002D4dde_002D88e5_002Ded2360bdba22/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Performance_should_have_15_Seats" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D514125A-C83A-424E-983E-9AEAE31E6F5B::net5.0::Spektrix.Tests.Service.Tests.PerformanceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D514125A-C83A-424E-983E-9AEAE31E6F5B::net5.0::Spektrix.Tests.Service.Tests.BookingTests.When_seats_are_available_book_Seats&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D514125A-C83A-424E-983E-9AEAE31E6F5B::net5.0::Spektrix.Tests.Service.Tests.BookingTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

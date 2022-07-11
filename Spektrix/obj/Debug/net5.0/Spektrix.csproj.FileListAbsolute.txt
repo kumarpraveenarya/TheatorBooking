@@ -1,0 +1,12 @@
+C:\Interview\Spektrix\Spektrix\bin\Debug\net5.0\Spektrix.deps.json
+C:\Interview\Spektrix\Spektrix\bin\Debug\net5.0\Spektrix.dll
+C:\Interview\Spektrix\Spektrix\bin\Debug\net5.0\ref\Spektrix.dll
+C:\Interview\Spektrix\Spektrix\bin\Debug\net5.0\Spektrix.pdb
+C:\Interview\Spektrix\Spektrix\obj\Debug\net5.0\Spektrix.csproj.AssemblyReference.cache
+C:\Interview\Spektrix\Spektrix\obj\Debug\net5.0\Spektrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interview\Spektrix\Spektrix\obj\Debug\net5.0\Spektrix.AssemblyInfoInputs.cache
+C:\Interview\Spektrix\Spektrix\obj\Debug\net5.0\Spektrix.AssemblyInfo.cs
+C:\Interview\Spektrix\Spektrix\obj\Debug\net5.0\Spektrix.csproj.CoreCompileInputs.cache
+C:\Interview\Spektrix\Spektrix\obj\Debug\net5.0\Spektrix.dll
+C:\Interview\Spektrix\Spektrix\obj\Debug\net5.0\ref\Spektrix.dll
+C:\Interview\Spektrix\Spektrix\obj\Debug\net5.0\Spektrix.pdb
